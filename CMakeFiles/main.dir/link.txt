@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/source/controller.cpp.o CMakeFiles/main.dir/source/filter.cpp.o CMakeFiles/main.dir/source/kinematics.cpp.o CMakeFiles/main.dir/source/trajectory.cpp.o  -o main  -lmujoco -lglfw -ldl 
